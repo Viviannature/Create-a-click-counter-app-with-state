@@ -1,0 +1,4 @@
+npx create-react-app click-counter-app
+cd click-counter-app
+# Replace the default files with the ones above
+npm start
